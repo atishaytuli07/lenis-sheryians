@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'He';
+    src: url(./assets/fonts/HelveticaNowText-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Pp';
+    src: url(./assets/fonts/PPWoodland-Regular.ttf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body {
+    width: 100%;
+    overscroll-behavior: none;
+    min-height: 100%;
+    user-select: none;
+}
